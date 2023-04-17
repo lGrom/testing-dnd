@@ -1,0 +1,7 @@
+.Board {
+    position: absolute;
+    bottom: 0px;
+    width: calc(100vw - 40px);
+    height: 150px;
+    border: 10px solid black;
+}
